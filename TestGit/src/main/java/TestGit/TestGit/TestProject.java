@@ -2,9 +2,15 @@ package TestGit.TestGit;
 
 public class TestProject {
 
-	public static void main(String[] args) {
+	
+	public void openBrowser()
+	{
+		
+		
+		
+	}
 		// TODO Auto-generated method stub
 
-	}
+
 
 }
