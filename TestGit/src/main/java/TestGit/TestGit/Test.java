@@ -5,6 +5,6 @@ public class Test {
 public void TestData()
 {
 	System.out.println(" ");
-	
+	System.out.println(" ");
 }
 }
